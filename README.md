@@ -1,4 +1,5 @@
-# mikaili
+# Movika
+Nuxt App for fetching latest movies currently streaming and in theaters
 
 ## Build Setup
 
